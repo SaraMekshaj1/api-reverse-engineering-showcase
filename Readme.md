@@ -1,6 +1,8 @@
 # Sunglass Hut Product Scraper
 **Python • Requests • Algolia API • Reverse Engineering**
 
+"This showcase includes the project-specific extraction logic. The core scraping engine (retry/circuit-breaker/session management framework) is proprietary and available on request for client engagements."
+
 A production-grade scraper that collects the full Sunglass Hut product catalogue by reverse-engineering the Algolia search API the website uses internally — delivering cleaner data, faster, and without the fragility of HTML parsing.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
