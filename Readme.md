@@ -192,8 +192,9 @@ Each product record captures everything a business would need:
 
 **1. Clone the repo**
 ```bash
-git clone 
-cd algolia-api-reverse-engineering-scraper
+git clone https://github.com/SaraMekshaj1/api-reverse-engineering-showcase.git
+cd api-reverse-engineering-showcase
+
 ```
 
 **2. Install dependencies**
