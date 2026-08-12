@@ -14,10 +14,10 @@ A production-grade scraper that collects the full Sunglass Hut product catalogue
 
 ## Project highlights
 
-- Collected **4,641 unique products** across **48 brands**
+- Collected **4,983 unique products** across **48 brands**
 - **100% catalogue coverage** — every product matched the expected count
-- **72 API requests** to fetch the entire catalogue
-- Completed in **15.7 seconds**
+- **75 API requests** to fetch the entire catalogue
+- Completed in **15.35 seconds**
 - Zero duplicates, zero missed products
 - Exports to both **CSV** and **JSON**
 - Automatic retries with exponential backoff, plus a circuit breaker for sustained failures
