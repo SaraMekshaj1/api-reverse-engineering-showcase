@@ -176,8 +176,8 @@ Each product record captures everything a business would need:
   "is_best_seller": true,
   "is_polarized": false,
   "is_customizable": true,
-  "image_url": "https://assets2.sunglasshut.com/.../0RB2198__129251__STD__noshad__qt.png",
-  "url": "https://www.sunglasshut.com/ray-ban/rb2198-8056597529679"
+  "image_url": "https://************om/.../0RB2198__129251__STD__noshad__qt.png",
+  "url": "https://www.su**************98-8056597529679"
 }
 ```
 
